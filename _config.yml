@@ -1,19 +1,19 @@
 # Site settings
-title: The résumé of Some Developer
+title: Aaron Brenner Résumé
 author:
   address:
-      street: 4 Your Street
-      town: Faketown
-      postcode: NG11 9BC
-      country: United Kingdom
-  email: anybody@gmail.com
-  name: Some Developer
+      street: 12335 Holly Ave
+      cit: Chino, CA
+      postcode: 91710
+      country: United States
+  email: aaron.brenner@yahoo.com
+  name: Aaron Brenner
   title: CSS Ninja and html Rockstar
-  twitter_username: nternetinspired
-  github_username:  nternetinspired
+  twitter_username: drakyous
+  github_username:  drakyous
   phone: +44 000 000 0000
-  repository: https://github.com/nternetinspired/jekyll-resume
-  website: https://github.com/nternetinspired/jekyll-resume
+  repository: https://github.com/drakyous/jekyll-resume
+  website: https://github.com/drakyous/jekyll-resume
 description: > # this means to ignore newlines until "baseurl:"
   Powered by Jekyll, and Github Pages ready, Jekyll-cv is a lightweight and lightning-fast
   html résumé making machine from @nternetinspired. Because web developers shouldn't
